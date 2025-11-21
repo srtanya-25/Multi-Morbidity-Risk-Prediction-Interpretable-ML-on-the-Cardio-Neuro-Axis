@@ -1,0 +1,2 @@
+# Multi-Morbidity-Risk-Prediction-Interpretable-ML-on-the-Cardio-Neuro-Axis
+This project develops a production-ready Machine Learning system for proactive healthcare risk stratification. Instead of predicting a single disease, this model simultaneously assesses a patient's high-risk status for 12 highly correlated chronic diseases across three critical domains: Neuro-Cognitive, Cardiovascular, and Metabolic.
